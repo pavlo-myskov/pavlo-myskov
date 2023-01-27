@@ -3,7 +3,7 @@
 </p>
 
 <p>- 👨‍💻 I’m currently working on 🤖
-<a href='https://github.com/FlashDrag/InformandBot'>TG bot</a> and <a href="https://github.com/FlashDrag/word-wheel">Word Wheel - JavaScript educational game</a>
+<a href='https://github.com/FlashDrag/DateCalcBot'>DateTime Calculator - TG bot</a>
 </p>
 
 <p>- 📚 I’m currently studying in 🏫
