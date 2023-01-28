@@ -11,9 +11,21 @@ I am a **Junior Software Developer** with experience in HTML5, CSS3, JavaScript,
 
 Thank you for visiting my profile!
 
-:incoming_envelope: **Contact me**
+:incoming_envelope: **Contact Me**
 
 [<img src='https://img.shields.io/badge/Telegram-333333?style=for-the-badge&logo=telegram&logoColor=white&style=plastic&logoWidth=20&labelColor=2CA5E0' alt='Telegram'>](https://t.me/flashdrag) [<img src='https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=white&style=plastic&logoWidth=20&labelColor=0077B5' alt='Telegram'>](https://www.linkedin.com/in/pavlo-myskov)
+
+<!--
+Badges4 for README.md
+https://github.com/alexandresanlim/Badges4-README.md-Profile#-education-
+https://shields.io/
+
+Badge Template
+![](https://img.shields.io/badge/...-222222?style=for-the-badge&logo=...&logoColor=white&logoWidth=20&labelColor=...)
+
+Complete list of github markdown emoji markup
+https://gist.github.com/rxaviers/7360908
+-->
 
 <details>
 <summary><h2>🔶 My Tech Stack</h2></summary>
@@ -66,6 +78,18 @@ Thank you for visiting my profile!
 
 </details>
 
-<!-- Template
-![](https://img.shields.io/badge/...-222222?style=for-the-badge&logo=...&logoColor=white&logoWidth=20&labelColor=...)
+<!--
+GitHub Readme Stats Cards
+https://github.com/anuraghazra/github-readme-stats
+
+Github Readme Streak Stats
+https://github.com/DenverCoder1/github-readme-streak-stats
 -->
+<a href="https://github.com/FlashDrag/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FlashDrag&count_private=true&show_icons=true&theme=swift&custom_title=FlashDrag's%20GitHub%20Stats&ring_color=E5A585&icon_color=E5A585&text_bold=false" alt="FlashDrag's GitHub stats" />
+</a>
+<a href="https://github.com/FlashDrag/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlashDrag&layout=compact&theme=swift" alt="Top Langs" />
+</a>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FlashDrag&theme=default&date_format=j%20M%5B%20Y%5D&background=F7F7F7&border=E4E2E2&ring=E5A585&fire=E5A585&currStreakLabel=E5A585)](https://git.io/streak-stats)
