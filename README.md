@@ -85,11 +85,19 @@ https://github.com/anuraghazra/github-readme-stats
 Github Readme Streak Stats
 https://github.com/DenverCoder1/github-readme-streak-stats
 -->
-<a href="https://github.com/FlashDrag/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FlashDrag&count_private=true&show_icons=true&theme=swift&custom_title=FlashDrag's%20GitHub%20Stats&ring_color=E5A585&icon_color=E5A585&text_bold=false" alt="FlashDrag's GitHub stats" />
-</a>
-<a href="https://github.com/FlashDrag/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlashDrag&layout=compact&theme=swift" alt="Top Langs" />
-</a>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FlashDrag&theme=default&date_format=j%20M%5B%20Y%5D&background=F7F7F7&border=E4E2E2&ring=E5A585&fire=E5A585&currStreakLabel=E5A585)](https://git.io/streak-stats)
+## Stats
+<p>
+    <a href="https://github.com/FlashDrag/github-readme-stats">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=FlashDrag&count_private=true&show_icons=true&theme=swift&custom_title=FlashDrag's%20GitHub%20Stats&ring_color=E5A585&icon_color=E5A585&text_bold=false" alt="FlashDrag's GitHub stats" />
+    </a>
+    <a href="https://github.com/FlashDrag/github-readme-stats">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlashDrag&layout=compact&theme=swift" alt="Top Langs" />
+    </a>
+</p>
+
+<p align="center">
+    <a href="https://git.io/streak-stats">
+      <img  src="http://github-readme-streak-stats.herokuapp.com?user=FlashDrag&theme=default&date_format=j%20M%5B%20Y%5D&background=F7F7F7&border=E4E2E2&ring=E5A585&fire=E5A585&currStreakLabel=E5A585" alt="GitHub Streak" />
+    </a>
+</p>
