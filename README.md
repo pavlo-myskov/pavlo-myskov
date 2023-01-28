@@ -11,8 +11,59 @@ I am a **Junior Software Developer** with experience in HTML5, CSS3, JavaScript,
 
 Thank you for visiting my profile!
 
-[<img src='https://img.shields.io/badge/Code_Institute-grey.svg?logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBzdGFuZGFsb25lPSJubyI/Pgo8IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDIwMDEwOTA0Ly9FTiIKICJodHRwOi8vd3d3LnczLm9yZy9UUi8yMDAxL1JFQy1TVkctMjAwMTA5MDQvRFREL3N2ZzEwLmR0ZCI+CjxzdmcgdmVyc2lvbj0iMS4wIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCiB3aWR0aD0iMTQ0LjAwMDAwMHB0IiBoZWlnaHQ9IjE0NC4wMDAwMDBwdCIgdmlld0JveD0iMCAwIDE0NC4wMDAwMDAgMTQ0LjAwMDAwMCIKIHByZXNlcnZlQXNwZWN0UmF0aW89InhNaWRZTWlkIG1lZXQiPgo8bWV0YWRhdGE+CkNyZWF0ZWQgYnkgcG90cmFjZSAxLjE2LCB3cml0dGVuIGJ5IFBldGVyIFNlbGluZ2VyIDIwMDEtMjAxOQo8L21ldGFkYXRhPgo8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjAwMDAwMCwxNDQuMDAwMDAwKSBzY2FsZSgwLjEwMDAwMCwtMC4xMDAwMDApIgpmaWxsPSIjRjA1MzIzIiBzdHJva2U9Im5vbmUiPgo8cGF0aCBkPSJNNjAwIDE0MTkgYy0yNSAtNSAtNTUgLTcgLTY3IC00IC0yMSA1IC0xMDkgLTIzIC0xMDAgLTMxIDIgLTMgMjEgMwo0MSAxMSAyMSA5IDQzIDE0IDQ5IDExIDcgLTIgNiAtNSAtMyAtNSAtMjUgLTIgLTE0MSAtNjAgLTE5MiAtOTcgLTUwIC0zNiAtNjQKLTQyIC01MiAtMjIgNCA3IDMgOCAtNSA0IC02IC00IC05IC0xMSAtNiAtMTUgNCAtOCAtMzMgLTQ4IC00MSAtNDMgLTIgMSAtNAotMSAtNSAtNSAtMSAtMTQgLTMxIC00MyAtMzkgLTM4IC00IDIgLTE1IC00IC0yNSAtMTUgLTEwIC0xMSAtMTMgLTIwIC04IC0yMAo2IDAgMTQgNyAxNyAxNiA0IDkgOSAxNCAxMiAxMSAzIC0zIC0xMSAtMjcgLTMwIC01NSAtMTU4IC0yMTkgLTE2MCAtNTY0IC01Ci03ODQgMjIgLTMwIDI0IC00MiA3IC0zMiAtOCA0IC0xMCAzIC01IC0yIDUgLTUgMTQgLTkgMjAgLTkgNyAtMSAxMSAtNiAxMAotMTMgLTIgLTcgMiAtMTEgOCAtOSA2IDEgMTQgLTQgMTcgLTEyIDMgLTEwIDAgLTExIC05IC01IC0xMiA2IC0xMiA1IDAgLTkgOAotMTAgMTYgLTE1IDE5IC0xMiA4IDggMzIgLTE2IDI2IC0yNiAtMyAtNSAwIC04IDcgLTcgNyAyIDEzIC0yIDE0IC05IDAgLTYgNAotMTUgOSAtMjAgNSAtNSA2IC0zIDIgNSAtMTEgMTggOSAxNSAyNSAtNSAxMiAtMTUgMTIgLTE2IC0xIC04IC04IDQgLTEyIDQgLTcKMCA0IC01IDEzIC0xMCAyMCAtMTEgNyAtMSAzOCAtMTggNzEgLTM4IDE5NiAtMTE5IDQ2MCAtMTIzIDY3NiAtMTAgMzAgMTYgNjMKMjkgNzIgMzAgMjMgMiA0OCAyMyA0NSAzNyAtMSA3IDQgMTEgMTEgOSA4IC0xIDExIDEgOCA2IC03IDEyIDc4IDk0IDg5IDg1IDQKLTUgNSAtMiAxIDQgLTQgNyA0IDI3IDE4IDQ2IDM1IDQ2IDgyIDE1MCAxMDMgMjI3IDExIDQzIDE3IDEwNCAxNyAxODAgMSAxMzIKLTIwIDIxOSAtODAgMzI4IC0xOSAzNSAtMzEgNjggLTI4IDc0IDQgNiAyIDggLTMgNSAtMTQgLTkgLTM3IDE5IC0yNyAzNCA0IDcKMyA5IC0zIDYgLTUgLTMgLTM0IDE4IC02MyA0OCAtMzAgMzAgLTUxIDU1IC00NiA1NSA1IDAgMyA3IC00IDE1IC03IDggLTE3IDE1Ci0yMyAxNSAtNiAwIC0yIC03IDkgLTE1IDM4IC0yOSA1IC0xNCAtNDcgMjEgLTY2IDQ0IC03NCA1MiAtMzEgMzAgMTcgLTkgMzIKLTE0IDMyIC0xMiAwIDkgLTU3IDM2IC02MyAzMCAtMyAtMyAtMzQgNSAtNjkgMTkgLTEwNyA0MiAtMjYxIDU3IC0zNjggMzZ6Cm0yOTAgLTM0NCBjMzAgLTE3IDU1IC0zNSA1NSAtNDIgMCAtNiA0IC0xNSA5IC0yMCA1IC01IDYgLTMgMiA1IC0xMCAxNyA0IDE1CjI2IC01IDIwIC0xOCAyNSAtMzggNiAtMjcgLTYgNCAtMyAtNCA4IC0xOCAxMCAtMTQgMjEgLTI0IDIzIC0yMiAyIDIgLTIgMTEKLTEwIDIxIC0xMCAxMiAtMTAgMTQgLTEgOSAyMyAtMTQgNjEgLTEwMyA3MiAtMTY4IDEyIC03NSAxIC0xODEgLTI1IC0yNDggLTIzCi01OCAtNjMgLTExMiAtNzcgLTEwNCAtNiA0IC04IDIgLTQgLTQgOSAtMTYgLTYxIC02OSAtMTE5IC04OSAtNzMgLTI2IC0yMTIKLTIzIC0yODcgNiAtMTczIDY3IC0yNTkgMjkyIC0xOTEgNTA0IDggMjYgMTkgNDUgMjQgNDIgNSAtNCA2IDAgMyA4IC04IDIzIDU4Cjk5IDExNiAxMzUgNzcgNDYgMTAyIDUyIDIxNSA0OSA4OSAtMiAxMDYgLTYgMTU1IC0zMnoiLz4KPC9nPgo8L3N2Zz4K' alt='Code Institute'>](https://codeinstitute.net)
+:incoming_envelope: **Contact me**
 
-:incoming_envelope: Contact me
+[<img src='https://img.shields.io/badge/Telegram-333333?style=for-the-badge&logo=telegram&logoColor=white&style=plastic&logoWidth=20&labelColor=2CA5E0' alt='Telegram'>](https://t.me/flashdrag) [<img src='https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=white&style=plastic&logoWidth=20&labelColor=0077B5' alt='Telegram'>](https://www.linkedin.com/in/pavlo-myskov)
 
-[<img src='https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white' alt='Telegram'>](https://t.me/flashdrag) [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Telegram'>](https://www.linkedin.com/in/pavlo-myskov)
+
+## My Tech Stack
+- ### Programming Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-222222?&style=for-the-badge&logo=javascript&logoColor=white&logoWidth=20&labelColor=c2bc15) ![Python](https://img.shields.io/badge/Python-222222?style=for-the-badge&logo=python&logoColor=white&logoWidth=20&labelColor=366E9C) ![HTML5](https://img.shields.io/badge/HTML5-222222?style=for-the-badge&logo=html5&logoColor=white&logoWidth=20&labelColor=E34F26) ![Css3](https://img.shields.io/badge/CSS3-222222?style=for-the-badge&logo=css3&logoColor=white&logoWidth=20&labelColor=1572B6)
+
+
+- ### Frameworks & Libraries
+    - #### Python
+    ![Flask](https://img.shields.io/badge/Flask-222222?style=for-the-badge&logo=flask&logoColor=white&logoWidth=20&labelColor=000) ![Aiogram](https://img.shields.io/badge/Aiogram-222222?style=for-the-badge&logo=telegram&logoColor=white&labelColor=blue)
+
+    ![Requests](https://img.shields.io/badge/Requests-222222?style=for-the-badge) ![Beautiful Soup](https://img.shields.io/badge/Beautiful_Soup-222222?style=for-the-badge)
+
+    ![Unitest](https://img.shields.io/badge/unitest-222222?style=for-the-badge) ![PyTest](https://img.shields.io/badge/PyTest-222222?style=for-the-badge) ![Pydantic](https://img.shields.io/badge/Pydantic-222222?style=for-the-badge)
+
+    ![datetime](https://img.shields.io/badge/Datetime-222222?style=for-the-badge) ![dateutil](https://img.shields.io/badge/Dateutil-222222?style=for-the-badge)
+
+    ![Virtualenv](https://img.shields.io/badge/Virtualenv-222222?style=for-the-badge)
+
+    - #### JavaScript
+    ![Node.js](https://img.shields.io/badge/Node.js-222222?style=for-the-badge&logo=nodedotjs&logoColor=white&logoWidth=20&labelColor=339933)
+
+
+- ### Databases
+![Redis](https://img.shields.io/badge/Redis-222222?style=for-the-badge&logo=redis&logoColor=white&logoWidth=20&labelColor=CC0000)
+
+![PostgeSQL](https://img.shields.io/badge/PostgreSQL-222222?style=for-the-badge&logo=postgresql&logoColor=white&logoWidth=20&labelColor=316192) ![MysSQL](https://img.shields.io/badge/MySql-222222?style=for-the-badge&logo=mysql&logoColor=white&logoWidth=20&labelColor=165564)
+
+
+- ### IDE's, Version Control, Other development environments
+![VSCode](https://img.shields.io/badge/VSCode-222222?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&logoWidth=20&labelColor=0078D4) ![GITpod](https://img.shields.io/badge/Gitpod-222222?style=for-the-badge&logo=Gitpod&logoColor=white&logoWidth=20&labelColor=FFAE33)
+
+![GIT](https://img.shields.io/badge/GIT-222222?style=for-the-badge&logo=GIT&logoColor=white&logoWidth=20&labelColor=E44C30) ![GITHub](https://img.shields.io/badge/GitHub-222222?style=for-the-badge&logo=GitHub&logoColor=000&logoWidth=20&labelColor=C2C2C2)
+
+![Linux](https://img.shields.io/badge/Linux-222222?style=for-the-badge&logo=linux&logoColor=000&logoWidth=20&labelColor=FCC624) ![GNU Bash](https://img.shields.io/badge/GNU%20Bash-222222?style=for-the-badge&logo=GNU%20Bash&logoColor=000&logoWidth=20&labelColor=4EAA25) ![powershell](https://img.shields.io/badge/powershell-222222?style=for-the-badge&logo=powershell&logoColor=white&logoWidth=20&labelColor=5391FE)
+
+
+- ### Hosting
+![GitHub pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub&logoColor=black&logoWidth=20&labelColor=C2C2C2) ![Heroku](https://img.shields.io/badge/Heroku-222222?style=for-the-badge&logo=heroku&logoColor=white&logoWidth=20&labelColor=430098)
+
+- ### Other tools
+![Balsamiq](https://img.shields.io/badge/Balsamiq-222222?style=for-the-badge) ![Markdown](https://img.shields.io/badge/Markdown-222222?style=for-the-badge&logo=Markdown&logoColor=white)
+
+![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-222222?style=for-the-badge&logo=Google-chrome&logoColor=white&logoWidth=20&labelColor=4285F4)
+
+![Postman](https://img.shields.io/badge/Postman-222222?style=for-the-badge&logo=Postman&logoColor=white&logoWidth=20&labelColor=FF6C37) ![json](https://img.shields.io/badge/json-222222?style=for-the-badge&logo=json&logoColor=white&logoWidth=20&labelColor=5E5C5C)
+
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-222222?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white&logoWidth=20&labelColor=31A8FF) ![Font Awesome](https://img.shields.io/badge/Font_Awesome-222222?style=for-the-badge&logo=fontawesome&logoColor=white&logoWidth=20&labelColor=339AF0)
+
+
+<!-- Template
+![](https://img.shields.io/badge/...-222222?style=for-the-badge&logo=...&logoColor=white&logoWidth=20&labelColor=...)
+-->
