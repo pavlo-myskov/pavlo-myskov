@@ -1,18 +1,18 @@
 ![Introduce by Python Class](images/introduce.png)
 
-<h1 align="center">Welcome to the passionate Python Developer profile!</h1>
+<h1 align="center">Welcome to the passionate Software Developer profile!</h1>
 
 Hi there 👋
 
 I'm Pavlo Myskov, **Python Full Stack Developer** with robust experience in Django, Flask, HTML, CSS and JavaScript.
 
-:mortar_board: I am currently enrolled in the _Diploma in Full Stack Software Development_ course at [:o: Code Institute](https://codeinstitute.net), where I am constantly expanding my skillset and knowledge of the industry. I'm passionate about building applications that balance functionality and design to create inclusive, intuitive user experiences.
+:mortar_board: I am currently enrolled in the *Diploma in Full Stack Software Development* course at [:o: Code Institute](https://codeinstitute.net), where I am constantly expanding my skillset and knowledge of the industry. I'm passionate about building applications that balance functionality and design to create inclusive, intuitive user experiences.
 
-👨‍💻 On my GitHub profile, you will find a variety of projects that showcase my abilities in Web and Bot development. Currently I am developing [Get Job](https://github.com/FlashDrag/get-job) portal based on Django framework.
+👨‍💻 On my GitHub profile, you will find a variety of projects that showcase my abilities in Web Application Development. Currently I am developing [Get Job](https://github.com/FlashDrag/get-job) portal based on Django framework.
 
 :arrow_double_up: I am highly motivated to constantly develop my skills and grow professionally. I am always open to new challenges and opportunities, and I welcome collaborations and contributions to my projects.
 
-Thank you for visiting my profile!
+Thank you for visiting my profile! If you have any questions or suggestions, please feel free to contact me.
 
 :incoming_envelope: **Contact Me**
 
@@ -39,7 +39,8 @@ Complete list of github markdown emoji markup
 https://gist.github.com/rxaviers/7360908
 -->
 
-## 💎 My Tech Stack
+<h2 align='center'>&#128142; My Tech Stack</h2>
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-222222?&style=for-the-badge&logo=javascript&logoColor=white&style=plastic&logoWidth=20&labelColor=c2bc15)
 ![JQuery](https://img.shields.io/badge/JQuery-222222?style=for-the-badge&logo=jquery&logoColor=white&style=plastic&logoWidth=20&labelColor=0769AD)
 ![Python](https://img.shields.io/badge/Python-222222?style=for-the-badge&logo=python&logoColor=white&style=plastic&logoWidth=20&labelColor=366E9C)
@@ -57,9 +58,72 @@ https://gist.github.com/rxaviers/7360908
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-222222?style=for-the-badge&logo=postgresql&logoColor=white&style=plastic&logoWidth=20&labelColor=336791)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-222222?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white&style=plastic&logoWidth=20&labelColor=31A8FF)
 
-## 💼 Projects
+<h2 align='center'> &#x1F4BC; Projects</h2>
+
+### _Currently working on_:
+
+- [Get Job](https://github.com/FlashDrag/get-job) - Job Platform that helps Jobseekers find desired job and helps Employers to connect with right candidates.
+- [DateTime Calculator](https://github.com/FlashDrag/DateCalcBot) - Telegram Bot that calculates the difference between two dates.
+
 <details>
-<summary><em>Click to expand</em></summary>
+<summary>
+  <h3>
+    <i>Completed Projects</i>
+  </h3>
+<small><i>(click to expand)</i></small>
+</summary>
+
+- #### [Word Wheel](https://github.com/FlashDrag/word-wheel)
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/FlashDrag/word-wheel"><img width="900" src="https://github.com/FlashDrag/word-wheel/blob/master/docs/supp-images/responsive-mockup.png" alt="Word Wheel Responsive Mockup"></a>
+    </td>
+    <td>
+      The Educational JavaScript game that challenges users to test their vocabulary skills by guessing words based on the provided definitions. The game based on a single interactive page with a fully responsive design and intuitive user interface. The app uses the Free Dictionary API to get the definitions of the words.
+    </td>
+  </tr>
+</table>
+
+- #### [Library Management System](https://github.com/FlashDrag/library-management-system)
+<table>
+  <tr>
+    <td>
+      Python CLI application designed to manage a library's book inventory using a Google Spreadsheet API. The app allows users to perform CRUD operations on the books stock in the library, as well as to check overdue books and view borrowed books.
+    </td>
+    <td>
+      <a href="https://github.com/FlashDrag/library-management-system" ><img width="700" src="https://github.com/FlashDrag/library-management-system/blob/main/docs/images/supp-images/mockup.png" alt="Library System Mockup"></a>
+    </td>
+  </tr>
+</table>
+
+
+- #### [BarberShop](https://github.com/FlashDrag/barber-shop)
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/FlashDrag/barber-shop"><img width="900" src="https://github.com/FlashDrag/barber-shop/blob/master/documentation/supp-images/amiresponsive.png" alt="BarberShop Responsive Mockup"></a>
+    </td>
+    <td>
+      HTML/CSS Static Barbershop Website for Successful Barbershop Business. The website is designed in such a way as to interest the user, give useful information about the services and increase the chances of visiting the Barbershop. The appearance and UI design is quite user-friendly, stylish and responsive.
+    </td>
+  </tr>
+</table>
+
+<!--
+- #### []()
+<table>
+  <tr>
+    <td>
+      <img src="" alt="">
+    </td>
+    <td>
+    </td>
+  </tr>
+</table>
+-->
+
+### 🔷 All my other study projects can be found in the [Study Projects](https://github.com/FlashDrag/study-projects) repository.
 </details>
 
 <!--
@@ -70,7 +134,7 @@ Github Readme Streak Stats
 https://github.com/DenverCoder1/github-readme-streak-stats
 -->
 
-## Stats
+<h2 align='center'>&#x1f4c8; GitHub Stats</h2>
 <p>
     <a href="https://git.io/streak-stats">
       <img align="center"  src="http://github-readme-streak-stats.herokuapp.com?user=FlashDrag&theme=default&date_format=j%20M%5B%20Y%5D&background=F7F7F7&border=E4E2E2&ring=E5A585&fire=E5A585&currStreakLabel=E5A585" alt="GitHub Streak" />
