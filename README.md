@@ -137,10 +137,10 @@ https://github.com/DenverCoder1/github-readme-streak-stats
 <h2 align='center'>&#x1f4c8; GitHub Stats</h2>
 <p>
     <a href="https://git.io/streak-stats">
-      <img align="center"  src="http://github-readme-streak-stats.herokuapp.com?user=FlashDrag&theme=default&date_format=j%20M%5B%20Y%5D&background=F7F7F7&border=E4E2E2&ring=E5A585&fire=E5A585&currStreakLabel=E5A585" alt="GitHub Streak" />
+      <img align="center"  src="http://github-readme-streak-stats.herokuapp.com?user=FlashDrag&date_format=j%20M%5B%20Y%5D&currStreakLabel=E5A585&theme=noctis-minimus" alt="GitHub Streak" />
     </a>
     <a href="https://github.com/FlashDrag/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlashDrag&layout=compact&theme=swift" alt="Top Langs" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlashDrag&layout=compact&theme=noctis_minimus" alt="Top Langs" />
     </a>
 </p>
 
