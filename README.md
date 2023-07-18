@@ -4,11 +4,11 @@
 
 Hi there 👋
 
-I'm Pavlo Myskov, **Python Full Stack Developer** with robust experience in Django, Flask, HTML, CSS and JavaScript.
+I'm Pavlo Myskov, **Python Full Stack Developer** with robust experience in Django, Flask, HTML, CSS, and JavaScript.
 
 :mortar_board: I am currently enrolled in the *Diploma in Full Stack Software Development* course at [:o: Code Institute](https://codeinstitute.net), where I am constantly expanding my skillset and knowledge of the industry. I'm passionate about building applications that balance functionality and design to create inclusive, intuitive user experiences.
 
-👨‍💻 On my GitHub profile, you will find a variety of projects that showcase my abilities in Web Application Development. Currently I am developing [Get Job](https://github.com/FlashDrag/get-job) portal based on Django framework.
+👨‍💻 On my GitHub profile, you will find a variety of projects that showcase my abilities in Software Development. Currently, I am developing [Get Job](https://github.com/FlashDrag/get-job) portal based on Django framework.
 
 :arrow_double_up: I am highly motivated to constantly develop my skills and grow professionally. I am always open to new challenges and opportunities, and I welcome collaborations and contributions to my projects.
 
@@ -59,19 +59,18 @@ https://gist.github.com/rxaviers/7360908
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-222222?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white&style=plastic&logoWidth=20&labelColor=31A8FF)
 
 <h2 align='center'> &#x1F4BC; Projects</h2>
-
-### _Currently working on_:
-
-- [Get Job](https://github.com/FlashDrag/get-job) - Job Platform that helps Jobseekers find desired job and helps Employers to connect with right candidates.
-- [DateTime Calculator](https://github.com/FlashDrag/DateCalcBot) - Telegram Bot that calculates the difference between two dates.
-
-<details>
-<summary>
-  <h3>
-    <i>Completed Projects</i>
-  </h3>
-<small><i>(click to expand)</i></small>
-</summary>
+                                        
+- #### [Get Job](https://github.com/FlashDrag/get-job)
+<table>
+  <tr>
+    <td>
+      Job Platform that helps Jobseekers find desired jobs and helps Employers connect with the right candidates. It's a         Full Stack Django-based web application. It uses PostgreSQL as a database and Bootstrap and jQuery for Frontend.
+    </td>
+    <td>
+      <a href="https://github.com/FlashDrag/get-job"><img width="900" src="https://github.com/FlashDrag/get-job/blob/master/docs/images/mockup.png" alt="Get Job Responsive Mockup"></a>
+    </td>
+  </tr>
+</table>
 
 - #### [Word Wheel](https://github.com/FlashDrag/word-wheel)
 <table>
