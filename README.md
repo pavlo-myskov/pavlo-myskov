@@ -4,19 +4,21 @@
 
 Hi there 👋
 
-I'm Pavlo Myskov, **Python Full Stack Developer** with robust experience in Django, Flask, HTML, CSS, and JavaScript.
+I'm Pavlo Myskov, **Python Full Stack Developer** with a strong foundation in many modern technologies, including programming languages such as Python(Flask, Django) and JavaScript(jQuery), database development(SQL, Django ORM, SQLAlchemy), frontend development with CSS(Sass, Bootstrap), HTML, unit testing, CI/CD.
 
-:mortar_board: I am currently enrolled in the *Diploma in Full Stack Software Development* course at [:o: Code Institute](https://codeinstitute.net), where I am constantly expanding my skillset and knowledge of the industry. I'm passionate about building applications that balance functionality and design to create inclusive, intuitive user experiences.
+My main field is full-cycle web development, from scratch, including planning, designing, developing, testing, deploying, and maintaining. I am also experienced in working with RESTful APIs, Bot development, Automation, and Scraping.
 
-👨‍💻 On my GitHub profile, you will find a variety of projects that showcase my abilities in Software Development. Currently, I am developing [Get Job](https://github.com/FlashDrag/get-job) portal based on Django framework.
+On my GitHub profile, you will find a variety of projects that showcase my abilities in Software Development. 
 
-:arrow_double_up: I am highly motivated to constantly develop my skills and grow professionally. I am always open to new challenges and opportunities, and I welcome collaborations and contributions to my projects.
+Currently, I'm building a fully functional *B2C E-Commerce Django-based Web Application*
+
+I am always open to new challenges and opportunities, and I welcome collaborations and contributions to my projects.
 
 Thank you for visiting my profile! If you have any questions or suggestions, please feel free to contact me.
 
 :incoming_envelope: **Contact Me**
 
-[![Gmail Badge](https://img.shields.io/badge/-flashdrag@gmail.com-333333?style=for-the-badge&logo=Gmail&logoColor=white&style=plastic&logoWidth=20&labelColor=c14438&link=mailto:flashdrag@gmail.com)](mailto:flashdrag@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-pavlo.myskov@gmail.com-333333?style=for-the-badge&logo=Gmail&logoColor=white&style=plastic&logoWidth=20&labelColor=c14438&link=mailto:pavlo.myskov@gmail.com)](mailto:pavlo.myskov@gmail.com)
 
 [<img src='https://img.shields.io/badge/Telegram-333333?style=for-the-badge&logo=telegram&logoColor=white&style=plastic&logoWidth=20&labelColor=2CA5E0' alt='Telegram'>](https://t.me/flashdrag) [<img src='https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=white&style=plastic&logoWidth=20&labelColor=0077B5' alt='Telegram'>](https://www.linkedin.com/in/pavlo-myskov)
 
