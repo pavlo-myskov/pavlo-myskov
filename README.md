@@ -8,9 +8,9 @@ I'm Pavlo Myskov, **Python Full Stack Developer** with a strong foundation in ma
 
 My main field is full-cycle web development, from scratch, including planning, designing, developing, testing, deploying, and maintaining. I am also experienced in working with RESTful APIs, Bot development, Automation, and Scraping.
 
-On my GitHub profile, you will find a variety of projects that showcase my abilities in Software Development. 
+On my GitHub profile, you will find a variety of projects that showcase my abilities in Software Development.
 
-Currently, I'm building a fully functional *B2C E-Commerce Django-based Web Application*
+Currently, building a fully functional *B2C E-Commerce Django-based Web Application* [CycleBay](https://github.com/FlashDrag/cyclebay)
 
 I am always open to new challenges and opportunities, and I welcome collaborations and contributions to my projects.
 
@@ -59,9 +59,22 @@ https://gist.github.com/rxaviers/7360908
 ![Heroku](https://img.shields.io/badge/Heroku-222222?style=for-the-badge&logo=heroku&logoColor=white&style=plastic&logoWidth=20&labelColor=430098)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-222222?style=for-the-badge&logo=postgresql&logoColor=white&style=plastic&logoWidth=20&labelColor=336791)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-222222?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white&style=plastic&logoWidth=20&labelColor=31A8FF)
+![Stripe](https://img.shields.io/badge/Stripe-222222?style=for-the-badge&logo=Stripe&logoColor=white&style=plastic&logoWidth=20&labelColor=008CDD)
 
 <h2 align='center'> &#x1F4BC; Projects</h2>
-                                        
+
+- #### [CycleBay](https://github.com/FlashDrag/cyclebay)
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/FlashDrag/cyclebay"><img width="900" src="https://github.com/FlashDrag/cyclebay/blob/master/docs/images/responsive-mockup.png" alt="CycleBay Responsive Mockup"></a>
+    </td>
+    <td>
+      CycleBay is a B2C e-commerce platform that allows customers to buy bicycles online. This is Django-based full stack web application that uses PostgreSQL database to store and manage data. The app is deployed on Heroku cloud platform and uses AWS S3 cloud service to store static and media files. The payment system powered by Stripe.
+    </td>
+  </tr>
+</table>
+
 - #### [Get Job](https://github.com/FlashDrag/get-job)
 <table>
   <tr>
@@ -124,8 +137,7 @@ https://gist.github.com/rxaviers/7360908
 </table>
 -->
 
-### 🔷 All my other study projects can be found in the [Study Projects](https://github.com/FlashDrag/study-projects) repository.
-</details>
+🔷 **All my other study projects can be found in the** [Study Projects](https://github.com/FlashDrag/study-projects) repository.
 
 <!--
 GitHub Readme Stats Cards
