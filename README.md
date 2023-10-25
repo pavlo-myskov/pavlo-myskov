@@ -6,11 +6,11 @@ Hi there 👋
 
 I'm Pavlo Myskov, **Python Full Stack Developer** with a strong foundation in many modern technologies, including programming languages such as Python(Flask, Django) and JavaScript(jQuery), database development(SQL, Django ORM, SQLAlchemy), frontend development with CSS(Sass, Bootstrap), HTML, unit testing, CI/CD.
 
+I'm recently graduated from the [Code Institute](https://codeinstitute.net/) Full Stack Software Development Diploma bootcamp. I have a strong passion for learning new technologies and building web applications. I am a self-motivated, hard-working, and responsible person. I am a good team player and also able to work independently.
+
 My main field is full-cycle web development, from scratch, including planning, designing, developing, testing, deploying, and maintaining. I am also experienced in working with RESTful APIs, Bot development, Automation, and Scraping.
 
 On my GitHub profile, you will find a variety of projects that showcase my abilities in Software Development.
-
-Currently, building a fully functional *B2C E-Commerce Django-based Web Application* [CycleBay](https://github.com/FlashDrag/cyclebay)
 
 I am always open to new challenges and opportunities, and I welcome collaborations and contributions to my projects.
 
@@ -56,6 +56,7 @@ https://gist.github.com/rxaviers/7360908
 ![Git](https://img.shields.io/badge/Git-222222?style=for-the-badge&logo=git&logoColor=white&style=plastic&logoWidth=20&labelColor=F05032)
 ![CI/CD](https://img.shields.io/badge/CI/CD-222222?style=for-the-badge&logo=github-actions&logoColor=white&style=plastic&logoWidth=20&labelColor=2088FF)
 ![Docker](https://img.shields.io/badge/Docker-222222?style=for-the-badge&logo=docker&logoColor=white&style=plastic&logoWidth=20&labelColor=2496ED)
+![AWS](https://img.shields.io/badge/AWS-222222?style=for-the-badge&logo=amazon-aws&logoColor=white&style=plastic&logoWidth=20&labelColor=AA7339)
 ![Heroku](https://img.shields.io/badge/Heroku-222222?style=for-the-badge&logo=heroku&logoColor=white&style=plastic&logoWidth=20&labelColor=430098)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-222222?style=for-the-badge&logo=postgresql&logoColor=white&style=plastic&logoWidth=20&labelColor=336791)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-222222?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white&style=plastic&logoWidth=20&labelColor=31A8FF)
@@ -136,6 +137,14 @@ https://gist.github.com/rxaviers/7360908
   </tr>
 </table>
 -->
+
+<!-- Hackathon Projects -->
+<h2 align='center'> &#128187; Hackathons</h2>
+
+| Name | Hackathon | Certificate |
+| :---: | :---: | :---: |
+|🧙‍♀️ 𝙒𝒊𝙩𝒄𝙝'𝙨 𝘽𝒓𝙚𝒘 - Halloween Hackathon | <a href="https://github.com/FlashDrag/witches-brew"><img src="https://github.com/FlashDrag/witches-brew/blob/main/docs/images/Responsive.png" width=600px></a> | <a href="https://eu.badgr.com/public/assertions/QOIHF3wcSR2f9TTYyxTRDA"><img src="https://eu.badgr.com/public/assertions/QOIHF3wcSR2f9TTYyxTRDA/image"></a> |
+
 
 🔷 **All my other study projects can be found in the** [Study Projects](https://github.com/FlashDrag/study-projects) repository.
 
