@@ -2,17 +2,33 @@
 
 <h1 align="center">Welcome to the passionate Software Developer profile!</h1>
 
-Hi there 👋
+#### Hi there 👋
 
-I'm Pavlo Myskov, **Python Full Stack Developer** with a strong foundation in many modern technologies, including programming languages such as Python(Flask, Django) and JavaScript(jQuery), database development(SQL, Django ORM, SQLAlchemy), frontend development with CSS(Sass, Bootstrap), HTML, unit testing, CI/CD.
+I'm a **Full Stack Developer** with over two years of hands-on experience. 
 
-I'm recently graduated from the [Code Institute](https://codeinstitute.net/) Full Stack Software Development Diploma bootcamp. I have a strong passion for learning new technologies and building web applications. I am a self-motivated, hard-working, and responsible person. I am a good team player and also able to work independently.
+I specialize in a range of modern technologies including:
 
-My main field is full-cycle web development, from scratch, including planning, designing, developing, testing, deploying, and maintaining. I am also experienced in working with RESTful APIs, Bot development, Automation, and Scraping.
+✔️ Backend: Python (Flask, Django)
 
-On my GitHub profile, you will find a variety of projects that showcase my abilities in Software Development.
+✔️ Frontend: JavaScript (React, Vue.js, jQuery), CSS3 (Sass, Bootstrap), HTML5
 
-I am always open to new challenges and opportunities, and I welcome collaborations and contributions to my projects.
+✔️ Databases: SQL, Django ORM, SQLAlchemy, PostgreSQL
+
+✔️ Development Tools: Unit testing, CI/CD pipelines
+
+✔️ Cloud Services: AWS, Heroku
+
+
+⭐ Certified by [Code Institute as a Full Stack Software Developer](https://www.credential.net/c606a3a8-84cb-4fbf-a41e-fa1b3fd49db9#gs.9ewzr4), I have a strong passion for learning new technologies and building web applications. I am self-motivated, hard-working, and responsible, with the ability to work both independently and as a team player.
+
+#### What I Do:
+- Full-Cycle Web development: planning, designing, developing, testing, deploying, and maintaining applications
+- Building and integrating RESTful APIs
+- Bot development
+- Script automation
+- Web scraping/crawling
+
+On my GitHub profile, you'll find a variety of projects showcasing my abilities in software development. I'm always open to new challenges and opportunities, and I welcome collaborations and contributions to my projects.
 
 Thank you for visiting my profile! If you have any questions or suggestions, please feel free to contact me.
 
@@ -44,11 +60,16 @@ https://gist.github.com/rxaviers/7360908
 <h2 align='center'>&#128142; My Tech Stack</h2>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-222222?&style=for-the-badge&logo=javascript&logoColor=white&style=plastic&logoWidth=20&labelColor=c2bc15)
+![React](https://img.shields.io/badge/React-222222?style=for-the-badge&logo=react&logoColor=white&style=plastic&logoWidth=20&labelColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/VueJS-222222?style=for-the-badge&logo=vuedotjs&logoColor=white&style=plastic&logoWidth=20&labelColor=4FC08D)
 ![JQuery](https://img.shields.io/badge/JQuery-222222?style=for-the-badge&logo=jquery&logoColor=white&style=plastic&logoWidth=20&labelColor=0769AD)
 ![Python](https://img.shields.io/badge/Python-222222?style=for-the-badge&logo=python&logoColor=white&style=plastic&logoWidth=20&labelColor=366E9C)
-![Flask](https://img.shields.io/badge/Flask-222222?style=for-the-badge&logo=flask&logoColor=white&style=plastic&logoWidth=20&labelColor=000)
 ![Django](https://img.shields.io/badge/Django-222222?style=for-the-badge&logo=django&logoColor=white&style=plastic&logoWidth=20&labelColor=092E20)
+![Flask](https://img.shields.io/badge/Flask-222222?style=for-the-badge&logo=flask&logoColor=white&style=plastic&logoWidth=20&labelColor=000)
+![Pytest](https://img.shields.io/badge/Pytest-222222?style=for-the-badge&logo=pytest&logoColor=white&style=plastic&logoWidth=20&labelColor=0A9EDC)
 ![Aiogram](https://img.shields.io/badge/Aiogram-222222?style=for-the-badge&logo=telegram&logoColor=white&style=plastic&labelColor=blue)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-222222?style=for-the-badge&logo=postgresql&logoColor=white&style=plastic&logoWidth=20&labelColor=336791)
+![Postman](https://img.shields.io/badge/Postman-222222?style=for-the-badge&logo=postman&logoColor=white&style=plastic&logoWidth=20&labelColor=FF6C37)
 ![HTML5](https://img.shields.io/badge/HTML5-222222?style=for-the-badge&logo=html5&logoColor=white&style=plastic&logoWidth=20&labelColor=E34F26)
 ![Css3](https://img.shields.io/badge/CSS3-222222?style=for-the-badge&logo=css3&logoColor=white&style=plastic&logoWidth=20&labelColor=1572B6)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-222222?style=for-the-badge&logo=bootstrap&logoColor=white&style=plastic&logoWidth=20&labelColor=7952B3)
@@ -58,7 +79,6 @@ https://gist.github.com/rxaviers/7360908
 ![Docker](https://img.shields.io/badge/Docker-222222?style=for-the-badge&logo=docker&logoColor=white&style=plastic&logoWidth=20&labelColor=2496ED)
 ![AWS](https://img.shields.io/badge/AWS-222222?style=for-the-badge&logo=amazon-aws&logoColor=white&style=plastic&logoWidth=20&labelColor=AA7339)
 ![Heroku](https://img.shields.io/badge/Heroku-222222?style=for-the-badge&logo=heroku&logoColor=white&style=plastic&logoWidth=20&labelColor=430098)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-222222?style=for-the-badge&logo=postgresql&logoColor=white&style=plastic&logoWidth=20&labelColor=336791)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-222222?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white&style=plastic&logoWidth=20&labelColor=31A8FF)
 ![Stripe](https://img.shields.io/badge/Stripe-222222?style=for-the-badge&logo=Stripe&logoColor=white&style=plastic&logoWidth=20&labelColor=008CDD)
 
