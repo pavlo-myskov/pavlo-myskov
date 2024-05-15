@@ -125,6 +125,20 @@ https://gist.github.com/rxaviers/7360908
   </tr>
 </table>
 
+
+- #### [DateTimeCalc](https://github.com/pavlo-myskov/DateCalcBot)
+<table>
+  <tr>
+    <td>
+      DateTime Calculator is a Telegram Bot developed in Python using Aiogram 2.x Framework, Datetime and Dateutil libraries.
+      DateCalcBot can calculate the difference between two dates in different units of time and their combinations.
+    </td>
+    <td>
+      <a href="https://github.com/pavlo-myskov/DateCalcBot"><img width="700" src="https://github.com/pavlo-myskov/DateCalcBot/blob/master/docs/images/date_time_calc_bot.png" alt="DateTimeCalc"></a>
+    </td>
+  </tr>
+</table>
+
 <!--
 - #### []()
 <table>
