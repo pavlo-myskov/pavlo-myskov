@@ -64,11 +64,11 @@ https://gist.github.com/rxaviers/7360908
 
 <h2 align='center'> &#x1F4BC; Projects</h2>
 
-- #### [CycleBay](https://github.com/FlashDrag/cyclebay)
+- #### [CycleBay](https://github.com/pavlo-myskov/cyclebay)
 <table>
   <tr>
     <td>
-      <a href="https://github.com/FlashDrag/cyclebay"><img width="900" src="https://github.com/FlashDrag/cyclebay/blob/master/docs/images/responsive-mockup.png" alt="CycleBay Responsive Mockup"></a>
+      <a href="https://github.com/pavlo-myskov/cyclebay"><img width="900" src="https://github.com/pavlo-myskov/cyclebay/blob/master/docs/images/responsive-mockup.png" alt="CycleBay Responsive Mockup"></a>
     </td>
     <td>
       CycleBay is a B2C e-commerce platform that allows customers to buy bicycles online. This is Django-based full stack web application that uses PostgreSQL database to store and manage data. The app is deployed on Heroku cloud platform and uses AWS S3 cloud service to store static and media files. The payment system powered by Stripe.
@@ -76,23 +76,23 @@ https://gist.github.com/rxaviers/7360908
   </tr>
 </table>
 
-- #### [Get Job](https://github.com/FlashDrag/get-job)
+- #### [Get Job](https://github.com/pavlo-myskov/get-job)
 <table>
   <tr>
     <td>
       Job Platform that helps Jobseekers find desired jobs and helps Employers connect with the right candidates. It's a         Full Stack Django-based web application. It uses PostgreSQL as a database and Bootstrap and jQuery for Frontend.
     </td>
     <td>
-      <a href="https://github.com/FlashDrag/get-job"><img width="900" src="https://github.com/FlashDrag/get-job/blob/master/docs/images/mockup.png" alt="Get Job Responsive Mockup"></a>
+      <a href="https://github.com/pavlo-myskov/get-job"><img width="900" src="https://github.com/pavlo-myskov/get-job/blob/master/docs/images/mockup.png" alt="Get Job Responsive Mockup"></a>
     </td>
   </tr>
 </table>
 
-- #### [Word Wheel](https://github.com/FlashDrag/word-wheel)
+- #### [Word Wheel](https://github.com/pavlo-myskov/word-wheel)
 <table>
   <tr>
     <td>
-      <a href="https://github.com/FlashDrag/word-wheel"><img width="900" src="https://github.com/FlashDrag/word-wheel/blob/master/docs/supp-images/responsive-mockup.png" alt="Word Wheel Responsive Mockup"></a>
+      <a href="https://github.com/pavlo-myskov/word-wheel"><img width="900" src="https://github.com/pavlo-myskov/word-wheel/blob/master/docs/supp-images/responsive-mockup.png" alt="Word Wheel Responsive Mockup"></a>
     </td>
     <td>
       The Educational JavaScript game that challenges users to test their vocabulary skills by guessing words based on the provided definitions. The game based on a single interactive page with a fully responsive design and intuitive user interface. The app uses the Free Dictionary API to get the definitions of the words.
@@ -100,24 +100,24 @@ https://gist.github.com/rxaviers/7360908
   </tr>
 </table>
 
-- #### [Library Management System](https://github.com/FlashDrag/library-management-system)
+- #### [Library Management System](https://github.com/pavlo-myskov/library-management-system)
 <table>
   <tr>
     <td>
       Python CLI application designed to manage a library's book inventory using a Google Spreadsheet API. The app allows users to perform CRUD operations on the books stock in the library, as well as to check overdue books and view borrowed books.
     </td>
     <td>
-      <a href="https://github.com/FlashDrag/library-management-system" ><img width="700" src="https://github.com/FlashDrag/library-management-system/blob/main/docs/images/supp-images/mockup.png" alt="Library System Mockup"></a>
+      <a href="https://github.com/pavlo-myskov/library-management-system" ><img width="700" src="https://github.com/pavlo-myskov/library-management-system/blob/main/docs/images/supp-images/mockup.png" alt="Library System Mockup"></a>
     </td>
   </tr>
 </table>
 
 
-- #### [BarberShop](https://github.com/FlashDrag/barber-shop)
+- #### [BarberShop](https://github.com/pavlo-myskov/barber-shop)
 <table>
   <tr>
     <td>
-      <a href="https://github.com/FlashDrag/barber-shop"><img width="900" src="https://github.com/FlashDrag/barber-shop/blob/master/documentation/supp-images/amiresponsive.png" alt="BarberShop Responsive Mockup"></a>
+      <a href="https://github.com/pavlo-myskov/barber-shop"><img width="900" src="https://github.com/pavlo-myskov/barber-shop/blob/master/documentation/supp-images/amiresponsive.png" alt="BarberShop Responsive Mockup"></a>
     </td>
     <td>
       HTML/CSS Static Barbershop Website for Successful Barbershop Business. The website is designed in such a way as to interest the user, give useful information about the services and increase the chances of visiting the Barbershop. The appearance and UI design is quite user-friendly, stylish and responsive.
@@ -143,10 +143,10 @@ https://gist.github.com/rxaviers/7360908
 
 | Name | Hackathon | Certificate |
 | :---: | :---: | :---: |
-|🧙‍♀️ 𝙒𝒊𝙩𝒄𝙝'𝙨 𝘽𝒓𝙚𝒘 - Halloween Hackathon | <a href="https://github.com/FlashDrag/witches-brew"><img src="https://github.com/FlashDrag/witches-brew/blob/main/docs/images/Responsive.png" width=600px></a> | <a href="https://eu.badgr.com/public/assertions/QOIHF3wcSR2f9TTYyxTRDA"><img src="https://eu.badgr.com/public/assertions/QOIHF3wcSR2f9TTYyxTRDA/image"></a> |
+|🧙‍♀️ 𝙒𝒊𝙩𝒄𝙝'𝙨 𝘽𝒓𝙚𝒘 - Halloween Hackathon | <a href="https://github.com/pavlo-myskov/witches-brew"><img src="https://github.com/pavlo-myskov/witches-brew/blob/main/docs/images/Responsive.png" width=600px></a> | <a href="https://eu.badgr.com/public/assertions/QOIHF3wcSR2f9TTYyxTRDA"><img src="https://eu.badgr.com/public/assertions/QOIHF3wcSR2f9TTYyxTRDA/image"></a> |
 
 
-🔷 **All my other study projects can be found in the** [Study Projects](https://github.com/FlashDrag/study-projects) repository.
+🔷 **All my other study projects can be found in the** [Study Projects](https://github.com/pavlo-myskov/study-projects) repository.
 
 <!--
 GitHub Readme Stats Cards
@@ -159,10 +159,10 @@ https://github.com/DenverCoder1/github-readme-streak-stats
 <h2 align='center'>&#x1f4c8; GitHub Stats</h2>
 <p>
     <a href="https://git.io/streak-stats">
-      <img align="center"  src="http://github-readme-streak-stats.herokuapp.com?user=FlashDrag&date_format=j%20M%5B%20Y%5D&currStreakLabel=E5A585&theme=noctis-minimus" alt="GitHub Streak" />
+      <img align="center"  src="http://github-readme-streak-stats.herokuapp.com?user=pavlo-myskov&date_format=j%20M%5B%20Y%5D&currStreakLabel=E5A585&theme=noctis-minimus" alt="GitHub Streak" />
     </a>
-    <a href="https://github.com/FlashDrag/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlashDrag&layout=compact&theme=noctis_minimus" alt="Top Langs" />
+    <a href="https://github.com/pavlo-myskov/github-readme-stats">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavlo-myskov&layout=compact&theme=noctis_minimus" alt="Top Langs" />
     </a>
 </p>
 
